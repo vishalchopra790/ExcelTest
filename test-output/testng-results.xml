@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12147" started-at="2020-07-03T13:58:15 UTC" finished-at="2020-07-03T13:58:27 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12147" started-at="2020-07-03T13:58:15 UTC" finished-at="2020-07-03T13:58:27 UTC">
+      <class name="com.Mytests.NotePadTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Mytests.NotePadTest@6c49835d]" name="setup" is-config="true" duration-ms="3024" started-at="2020-07-03T13:58:15 UTC" finished-at="2020-07-03T13:58:18 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TimeStamp()[pri:0, instance:com.Mytests.NotePadTest@6c49835d]" name="TimeStamp" duration-ms="3966" started-at="2020-07-03T13:58:18 UTC" finished-at="2020-07-03T13:58:22 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TimeStamp -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.Mytests.NotePadTest@6c49835d]" name="cleanup" is-config="true" duration-ms="5050" started-at="2020-07-03T13:58:22 UTC" finished-at="2020-07-03T13:58:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.Mytests.NotePadTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
